@@ -17,44 +17,42 @@ Before coming to Westlake University, I obtained my bachelor’s degree of Engin
 
 ### **Off-Dynamics Inverse Reinforcement Learning from Hetero-Domain**
 
-**Yachen Kang**, Jinxin Liu, Xin Cao and Donglin Wang
-*arXiv*, 2021
-
-[[paper]](https://arxiv.org/abs/2110.11443)
+- **Yachen Kang**, Jinxin Liu, Xin Cao and Donglin Wang
+- *arXiv*, 2021
+- [[paper]](https://arxiv.org/abs/2110.11443)
 [[code]](https://github.com/yachenkang/ODIRL)
 
 ## Publications
 
 ### **Unsupervised Domain Adaptation with Dynamics-Aware Rewards in Reinforcement Learning**
 
-Jinxin Liu, Hao Shen, Donglin Wang, **Yachen Kang**, Qiangxing Tian
-*In Proceedings of the Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS)*, 2021
+- Jinxin Liu, Hao Shen, Donglin Wang, **Yachen Kang**, Qiangxing Tian
+- *In Proceedings of the Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS)*, 2021
 
 ### **Attributes-Guided and Pure-Visual Attention Alignment for Few-Shot Recognition**
 
-Siteng Huang, Min Zhang, **Yachen Kang**, Donglin Wang
-*In Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI)*, 2021
-
-[[paper]](https://arxiv.org/abs/2009.04724)
+- Siteng Huang, Min Zhang, **Yachen Kang**, Donglin Wang
+- *In Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI)*, 2021
+- [[paper]](https://arxiv.org/abs/2009.04724)
 [[code]](https://github.com/bighuang624/AGAM)
 [[project]](https://kyonhuang.top/publication/attributes-guided-attention-module)
 
 ### **Deep Transfer Collaborative Filtering with Geometric Structure Preservation for Cross-Domain Recommendation**
 
-**Yachen Kang**, Sibo Gai, Feng Zhao, Donglin Wang and Ao Tang
-*In Proceedings of the 2020 International Joint Conference on Neural Networks (IJCNN)*, 2020
+- **Yachen Kang**, Sibo Gai, Feng Zhao, Donglin Wang and Ao Tang
+- *In Proceedings of the 2020 International Joint Conference on Neural Networks (IJCNN)*, 2020
 
 ### **Independent Skill Transfer for Deep Reinforcement Learning**
 
-Qiangxing Tian, Guanchu Wang, Jinxin Liu, Donglin Wang, **Yachen Kang**
-*In Proceedings of the 2020 International Joint Conferences on Artificial Intelligence (IJCAI)*, 2020
+- Qiangxing Tian, Guanchu Wang, Jinxin Liu, Donglin Wang, **Yachen Kang**
+- *In Proceedings of the 2020 International Joint Conferences on Artificial Intelligence (IJCAI)*, 2020
 
 ### **Cross-domain deep collaborative filtering for recommendation**
 
-**Yachen Kang**, Sibo Gai, Feng Zhao, Donglin Wang, Yi Luo
-*In Proceedings of the 2019 International Conference on Data Mining Workshops (ICDMW)*, 2019
+- **Yachen Kang**, Sibo Gai, Feng Zhao, Donglin Wang, Yi Luo
+- *In Proceedings of the 2019 International Conference on Data Mining Workshops (ICDMW)*, 2019
 
 ### **Deep transfer collaborative filtering for recommender systems**
 
-Sibo Gai, Feng Zhao, **Yachen Kang**, Zhengyu Chen, Donglin Wang, Ao Tang
-*In Proceedings of the Pacific Rim International Conference on Artificial Intelligence (PRICAI)*, 2020
+- Sibo Gai, Feng Zhao, **Yachen Kang**, Zhengyu Chen, Donglin Wang, Ao Tang
+- *In Proceedings of the Pacific Rim International Conference on Artificial Intelligence (PRICAI)*, 2020
