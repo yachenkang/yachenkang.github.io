@@ -3,26 +3,25 @@ permalink: /
 title: "Yachen Kang"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a third-year joint Ph.D. student of [Westlake University](https://en.westlake.edu.cn/) and [Zhejiang University](https://www.zju.edu.cn/english/), advised by [Dr. Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml).
+I am a fifth-year joint Ph.D. student of [Westlake University](https://en.westlake.edu.cn/) and [Zhejiang University](https://www.zju.edu.cn/english/), advised by [Dr. Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml).
 Also, I am a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) in Westlake University, where I do my research work on machine learning and robot learning.
 
 Before coming to Westlake University, I obtained my bachelor’s degree of Engineering from [School of Electronic Science and Engineering](https://ese.nju.edu.cn/ese_en/main.htm), [Nanjing University](http://www.nju.edu.cn/EN), majoring in Biomedical Engineering.
 
-## Preprint
-
-### **Off-Dynamics Inverse Reinforcement Learning from Hetero-Domain**
-
-- **Yachen Kang**, Jinxin Liu, Xin Cao and Donglin Wang
-- *arXiv*, 2021
-- [[paper]](https://arxiv.org/abs/2110.11443)
-[[code]](https://github.com/yachenkang/ODIRL)
-
 ## Publications
+
+### **Beyond Reward: Offline Preference-guided Policy Optimization**
+
+- **Yachen Kang**, Diyuan Shi, Jinxin Liu, Li He, Donglin Wang
+- *In Proceedings of the Fortieth International Conference on Machine Learning (ICML)*, 2023
+- [[paper]](https://openreview.net/forum?id=0BgDXE6vJJ)
+[[code]](https://github.com/bkkgbkjb/OPPO)
+[[project]](https://sites.google.com/view/oppo-icml-2023)
 
 ### **Unsupervised Domain Adaptation with Dynamics-Aware Rewards in Reinforcement Learning**
 
@@ -39,7 +38,7 @@ Before coming to Westlake University, I obtained my bachelor’s degree of Engin
 
 ### **Deep Transfer Collaborative Filtering with Geometric Structure Preservation for Cross-Domain Recommendation**
 
-- **Yachen Kang**, Sibo Gai, Feng Zhao, Donglin Wang and Ao Tang
+- **Yachen Kang**, Sibo Gai, Feng Zhao, Donglin Wang, Ao Tang
 - *In Proceedings of the 2020 International Joint Conference on Neural Networks (IJCNN)*, 2020
 
 ### **Independent Skill Transfer for Deep Reinforcement Learning**
@@ -56,3 +55,36 @@ Before coming to Westlake University, I obtained my bachelor’s degree of Engin
 
 - Sibo Gai, Feng Zhao, **Yachen Kang**, Zhengyu Chen, Donglin Wang, Ao Tang
 - *In Proceedings of the Pacific Rim International Conference on Artificial Intelligence (PRICAI)*, 2020
+
+## Preprint
+
+### **STRAPPER: Preference-based Reinforcement Learning via Self-training Augmentation and Peer Regularization**
+
+- **Yachen Kang**, Li He, Jinxin Liu, Zifeng Zhuang, Donglin Wang
+- *arXiv*, 2022
+- [[paper]](https://arxiv.org/abs/2307.09692)
+
+### **Off-Dynamics Inverse Reinforcement Learning from Hetero-Domain**
+
+- **Yachen Kang**, Jinxin Liu, Xin Cao, Donglin Wang
+- *arXiv*, 2021
+- [[paper]](https://arxiv.org/abs/2110.11443)
+[[code]](https://github.com/yachenkang/ODIRL)
+
+### **CEIL: Generalized Contextual Imitation Learning**
+
+- Jinxin Liu, Li He, **Yachen Kang**, Zifeng Zhuang, Donglin Wang, Huazhe Xu
+- *arXiv*, 2023
+- [[paper]](https://arxiv.org/abs/2306.14534)
+
+### **Design from Policies: Conservative Test-Time Adaptation for Offline Policy Optimization**
+
+- Jinxin Liu, Hongyin Zhang, Zifeng Zhuang, **Yachen Kang**, Donglin Wang, Bin Wang
+- *arXiv*, 2023
+- [[paper]](https://arxiv.org/abs/2306.14479)
+
+### **Beyond OOD State Actions: Supported Cross-Domain Offline Reinforcement Learning**
+
+- Jinxin Liu, Ziqi Zhang, Zhenyu Wei, Zifeng Zhuang, **Yachen Kang**, Sibo Gai, Donglin Wang
+- *arXiv*, 2023
+- [[paper]](https://arxiv.org/abs/2306.12755)
