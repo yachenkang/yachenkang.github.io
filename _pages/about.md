@@ -1,17 +1,19 @@
 ---
 permalink: /
-title: "Yachen Kang"
-excerpt: "About me"
+title: "Yachen Kang 亢雅宸"
+excerpt: "Yachen Kang 亢雅宸"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a fifth-year joint Ph.D. student of [Westlake University](https://en.westlake.edu.cn/) and [Zhejiang University](https://www.zju.edu.cn/english/), advised by [Dr. Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml).
-Also, I am a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) in Westlake University, where I do my research work on machine learning and robot learning.
+Hi! I am Yachen Kang (亢雅宸 in Chinese).
+I am a Ph.D. student of [Zhejiang University](https://www.zju.edu.cn/english/), advised by [Dr. Donglin Wang](https://en.westlake.edu.cn/about/faculty/201912/t20191206_2513.shtml).
+Also, I am a member of [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) in [Westlake University](https://en.westlake.edu.cn/), where I do my research work on machine learning and robot learning.
+Prior to my Ph.D. career, I obtained my bachelor’s degree of Engineering from [School of Electronic Science and Engineering](https://ese.nju.edu.cn/ese_en/main.htm), [Nanjing University](http://www.nju.edu.cn/EN) in 2018, majoring in Biomedical Engineering.
 
-Before coming to Westlake University, I obtained my bachelor’s degree of Engineering from [School of Electronic Science and Engineering](https://ese.nju.edu.cn/ese_en/main.htm), [Nanjing University](http://www.nju.edu.cn/EN), majoring in Biomedical Engineering.
+<span style="color:red;">I am <b>seeking exciting industry opportunities for both research and applications after Ph.D. graduation (June 2024)</b>. Please feel free to drop me an <a href="mailto:herbert.ych.kang@outlook.com" target="_blank">email</a> if you are interested!</span>
 
 ## Publications
 
